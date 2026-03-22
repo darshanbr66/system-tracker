@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+dist/
+build/
+bin/
+obj/
+.vscode/
+helper-csharp/screenshots/
+server/screenshots/
